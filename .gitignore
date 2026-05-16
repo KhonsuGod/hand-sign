@@ -25,3 +25,5 @@ firebase-adminsdk*.json
 google-services.json
 secret*
 private*
+# Generated/cache files
+voice_cache/
