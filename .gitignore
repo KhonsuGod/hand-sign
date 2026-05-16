@@ -1,0 +1,27 @@
+
+# Safe GitHub upload ignores
+.env
+.env.*
+!.env.example
+node_modules/
+vendor/
+.venv/
+venv/
+dist/
+build/
+.next/
+out/
+coverage/
+.DS_Store
+Thumbs.db
+*.log
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+credentials.json
+service-account.json
+firebase-adminsdk*.json
+google-services.json
+secret*
+private*
